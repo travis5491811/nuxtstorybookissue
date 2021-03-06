@@ -38,3 +38,4 @@ Install settings are:
 ? Version control system: None
 ```
 
+Run storybook with `npx nuxt storybook`
